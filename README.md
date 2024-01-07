@@ -8,15 +8,9 @@ Ders programı oluşturma süreci genellikle karmaşık ve zaman alıcıdır. Bu
 
 ## Kullanılan Teknolojiler
 
-- Python
-- Graf Teorisi Kütüphaneleri (NetworkX, igraph, vb.)
+- Visual Studio, MSSQL
+- C#, SQL 
 - [Diğer Kütüphaneler]
-
-## Nasıl Çalıştırılır
-
-1. Proje dosyalarını bilgisayarınıza indirin.
-2. Gerekli bağımlılıkları yüklemek için terminal veya komut istemcisine `pip install -r requirements.txt` komutunu girin.
-3. `main.py` veya ana çalıştırılabilir dosyayı çalıştırarak programı başlatın.
 
 ## Proje Yapısı
 
@@ -34,7 +28,6 @@ Ders programı oluşturma süreci genellikle karmaşık ve zaman alıcıdır. Bu
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Detaylar için lisans dosyasını kontrol edin.
 
 ---
 Bu README şablonu, projenizi açıklamak, kullanım talimatları sağlamak ve katkıda bulunanları yönlendirmek için kullanılabilir. Örnek veriler ve bağlantılar projenize özel olarak güncellenmelidir.
